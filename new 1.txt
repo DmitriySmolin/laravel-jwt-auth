@@ -1,0 +1,5 @@
+{
+	"status": "Success",
+	"detailed_status": "Succesfull Authorization"
+	"jwt_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxMjM0NTY3ODkwIiwibmFtZSI6IlNlcmdleSIsImVtYWlsIjoic2VyZ2V5QGdtYWlsLmNvbSIsInVwZGF0ZWRfYXQiOiIyMDIyLTEwLTMwVDA4OjI0OjI2LjAwMDAwMFoiLCJjcmVhdGVkX2F0IjoiMjAyMi0xMC0zMFQwODoyNDoyNi4wMDAwMDBaIiwiaWQiOjMsImlhdCI6MTUxNjIzOTAyMn0.Hv0OQLT6fIH2F5rPVg_bfDHZtj00GTxyNygRn6bBsTc"
+}
